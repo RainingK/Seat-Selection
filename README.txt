@@ -1,7 +1,5 @@
 README
 
-Our program's status is completed.
-
 The main sh file when executed using "$ ./Main.sh" displays 5 choics as the main menu. 
 
 if the 1st choice is selected:
