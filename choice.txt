@@ -1,0 +1,4 @@
+[Showtimes],[Movie Title],[Vacancy]
+1300-2Oct,UnderCovers,Yes
+1600-2Oct,RoboCop,No
+1700-2Oct,Predators,Yes
